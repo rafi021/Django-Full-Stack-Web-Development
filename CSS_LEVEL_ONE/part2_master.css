@@ -1,0 +1,30 @@
+/*selected tag{
+  property:value;
+}*/
+body{
+  background-image: url(https://s3-us-west-1.amazonaws.com/powr/defaults/Siberian-Tiger-Running-Through-Snow-Tom-Brakefield-Getty-Images-200353826-001.jpg);
+  background-repeat: repeat;
+
+}
+/*background color propertry*/
+/*border property needs three parameters
+border-color:
+border-width:pixel or thick/thin/medium
+border-style: dotted/double/solid/ ...
+*/
+div{
+  background: Blue;
+  border-color: Black;
+  border-width:thick;
+  border-style: double;
+}
+
+p{
+  color: Yellow;
+}
+
+span{
+  background: red;
+  color: black;
+
+}

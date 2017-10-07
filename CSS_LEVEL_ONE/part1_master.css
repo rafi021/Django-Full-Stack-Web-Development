@@ -1,0 +1,24 @@
+/*selected tag{
+  property:value;
+}*/
+
+/*Heading 1 color propertry*/
+h1{
+  color: Red;
+}
+/*Paragraph color propertry*/
+p{
+  color:#0895a8;
+}
+/*List color property*/
+/*rgb color pciker link
+https://www.w3schools.com/colors/colors_picker.asp*/
+li{
+  color:rgb(0, 102, 255);
+}
+/*Heading 3 rgba color propertry
+rgba(red,green,blue,transperency[0(fully transperent) - 1(normal)])*/
+h3
+{
+  color: rgba(255, 97, 0, 0.5);
+}

@@ -1,0 +1,21 @@
+/* for more CSS Font sizes.
+Visit: https://www.cssfontstack.com/
+*/
+h1{
+  font-family: cursive;
+  text-align: center;
+}
+p{
+  font-family: 'Nosifer', cursive;
+  font-style: italic;
+  font-weight: bold;
+  text-align: justify;
+}
+
+body{
+  font-size: 20px;
+}
+
+#two{
+  font-size: 1.1em;
+}
