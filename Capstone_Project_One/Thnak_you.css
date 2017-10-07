@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+  background: #001942;
+  font-family: 'Encode Sans Expanded', sans-serif;
+  color:White;
+  border-left: 80px solid #16ffd0;
+  border-bottom: 80px solid #16ffd0;
+  border-right:80px solid #16ffd0;
+  height: 150px;
+}
